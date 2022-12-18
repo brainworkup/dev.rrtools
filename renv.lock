@@ -57,6 +57,11 @@
       ],
       "Hash": "e9c08b94391e9f3f97355841229124f2"
     },
+    "arrow": {
+      "Package": "arrow",
+      "Version": "10.0.1",
+      "Source": "Repository"
+    },
     "askpass": {
       "Package": "askpass",
       "Version": "1.1",
@@ -412,6 +417,11 @@
       "Requirements": [],
       "Hash": "370a9db7846ce69052fe6f8b8767b40f"
     },
+    "fastverse": {
+      "Package": "fastverse",
+      "Version": "0.3.0",
+      "Source": "Repository"
+    },
     "fontawesome": {
       "Package": "fontawesome",
       "Version": "0.4.0.9000",
@@ -584,6 +594,11 @@
       ],
       "Hash": "f894e7b76e36258a483c602a786d7270"
     },
+    "httpgd": {
+      "Package": "httpgd",
+      "Version": "1.3.0",
+      "Source": "Repository"
+    },
     "httpuv": {
       "Package": "httpuv",
       "Version": "1.6.7.9000",
@@ -673,6 +688,11 @@
         "yaml"
       ],
       "Hash": "38576315b36ff360ac76e42f2ebb1227"
+    },
+    "languageserver": {
+      "Package": "languageserver",
+      "Version": "0.3.14",
+      "Source": "Repository"
     },
     "later": {
       "Package": "later",
@@ -995,6 +1015,11 @@
         "vctrs"
       ],
       "Hash": "6ce5d1c2e782aaca0fd4d988e2337964"
+    },
+    "quarto": {
+      "Package": "quarto",
+      "Version": "1.2",
+      "Source": "Repository"
     },
     "ragg": {
       "Package": "ragg",
@@ -1413,6 +1438,16 @@
         "vctrs"
       ],
       "Hash": "296ad1138cd125adce08283b1dfa2f4b"
+    },
+    "tidytable": {
+      "Package": "tidytable",
+      "Version": "0.9.1",
+      "Source": "Repository"
+    },
+    "tidyverse": {
+      "Package": "tidyverse",
+      "Version": "1.3.2",
+      "Source": "Repository"
     },
     "tinytex": {
       "Package": "tinytex",
