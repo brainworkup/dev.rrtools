@@ -2,9 +2,7 @@
   "hash": "feb3f19521d414ba174fb3079f88b32e",
   "result": {
     "markdown": "---\ntitle: \"R `rrtools` Project Template\"\nauthor: Joey Trampush\ndate: today\nformat:\n  html:\n    code-fold: true\n    df-print: paged\ncategories:\n  - Project\n  - Quarto\n  - R\nknitr:\n  opts_chunk:\n    collapse: true\n    comment: \"#>\"\n    R.options:\n      knitr.graphics.auto_pdf: true\nexecute:\n  echo: true\n  warning: false\n  message: true\n  freeze: auto\n---\n\n\n## `rrtools` based research project template\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrrtools::add_dependencies_to_description()\n```\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

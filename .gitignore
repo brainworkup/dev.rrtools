@@ -6,3 +6,7 @@
 /.luarc.json
 
 /.quarto/
+
+index.qmd
+index.html
+index_files/
